@@ -1,0 +1,8 @@
+target/
+!target/weekly-payment-backend-1.0.0.jar
+.mvn/wrapper/maven-wrapper.jar
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
